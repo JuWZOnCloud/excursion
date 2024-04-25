@@ -1,0 +1,23 @@
+body {
+    background: #212427;
+    text-align: center;
+}
+
+header h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: #FAF9F6;
+    text-align: center;
+}
+
+.link_to_download {
+    color: #7FFFD4;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
